@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "a85e54f6c5d3ad3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "24f2949f4c961706",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fb3a1d634241b6b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f14d4fe16abc3762",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1f91bf2d1e4aba04",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловий менеджер"
+        }
+      },
+      {
+        "id": "9e289376a01ad26c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Пошук"
+        }
+      },
+      {
+        "id": "8f7880ec9647292c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Мітки"
+        }
+      },
+      {
+        "id": "104cb047fc0bc03e",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Всі властивості"
+        }
+      },
+      {
+        "id": "d92ffa619214600c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dccf1812ca3c0f7d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bf1ed3652d9f2d62",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Фигня конченая этот обсидиан тут даже нельяз текст нормально писать.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Зворотні посилання"
+        }
+      },
+      {
+        "id": "5eb82447b762d6aa",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Вихідні посилання"
+        }
+      },
+      {
+        "id": "893c3e90e02effaf",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Вміст"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "bases:Створити нову базу": false
+    }
+  },
+  "active": "9fb3a1d634241b6b",
+  "lastOpenFiles": [
+    "Глава 1. Что такое командная оболочка.md",
+    "Linux.md",
+    "Глава 2. Навигация.md",
+    "Redirection & Pipes.md",
+    "Глава 5. Работа с командами.md",
+    "Глава 4. Операции с файлами и каталогами.md",
+    "Глава 3. Исследование системы.md",
+    "Без назви",
+    "Фигня конченая этот обсидиан тут даже нельяз текст нормально писать.md",
+    "База.md"
+  ]
+}
