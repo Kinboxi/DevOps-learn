@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation.md",
+                "file": "Obsidian /Глава 5. Работа с командами.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Navigation"
+              "title": "Глава 5. Работа с командами"
             }
           }
         ]
@@ -159,6 +159,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Відкрити провідник файлів": false,
       "graph:Граф": false,
       "canvas:Створити нове полотно": false,
@@ -168,11 +169,11 @@
       "bases:Створити нову базу": false
     }
   },
-  "active": "f094d41409c90b60",
+  "active": "3aafcf56940cae7d",
   "lastOpenFiles": [
+    "Obsidian /Linux.md",
     "Глава 1. Что такое командная оболочка.md",
     "Без назви",
-    "Obsidian /Linux.md",
     "Без назви.md",
     "Без назви 2",
     "Obsidian /Без назви.base",
