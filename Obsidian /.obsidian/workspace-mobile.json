@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "24f2949f4c961706",
+        "id": "7aad7bcb881a9ac1",
         "type": "tabs",
         "children": [
           {
-            "id": "9fb3a1d634241b6b",
+            "id": "a49b11baff4ccaef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Глава 1. Что такое командная оболочка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Глава 1. Что такое командная оболочка"
             }
           }
         ]
@@ -162,15 +166,15 @@
       "bases:Створити нову базу": false
     }
   },
-  "active": "9fb3a1d634241b6b",
+  "active": "a49b11baff4ccaef",
   "lastOpenFiles": [
-    "Глава 1. Что такое командная оболочка.md",
     "Linux.md",
-    "Глава 2. Навигация.md",
-    "Redirection & Pipes.md",
-    "Глава 5. Работа с командами.md",
     "Глава 4. Операции с файлами и каталогами.md",
+    "Глава 5. Работа с командами.md",
     "Глава 3. Исследование системы.md",
+    "Глава 2. Навигация.md",
+    "Глава 1. Что такое командная оболочка.md",
+    "Redirection & Pipes.md",
     "Без назви",
     "Фигня конченая этот обсидиан тут даже нельяз текст нормально писать.md",
     "База.md"
