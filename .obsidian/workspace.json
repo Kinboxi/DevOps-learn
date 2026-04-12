@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian /Глава 4.Поиск и фильрация.md",
+                "file": "Obsidian /Глава 2. Операции с файлами и каталогами.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Глава 4.Поиск и фильрация"
+              "title": "Глава 2. Операции с файлами и каталогами"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "downolad obsidian on linux.canvas",
+                "file": "Obsidian /Глава 2. Операции с файлами и каталогами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для downolad obsidian on linux"
+              "title": "Обратные ссылки для Глава 2. Операции с файлами и каталогами"
             }
           },
           {
@@ -178,16 +178,27 @@
               "icon": "lucide-list",
               "title": "Структура downolad obsidian on linux"
             }
+          },
+          {
+            "id": "0626afc954e3be7e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -197,13 +208,15 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "7d3ad85d6625d12a",
+  "active": "c2af934c1b7504e0",
   "lastOpenFiles": [
+    "Obsidian /Глава 4.Поиск и фильрация.md",
+    "Obsidian /Глава 6. Пользователи и группы.md",
+    "Obsidian /Глава 5. Права и доступ.md",
+    "Obsidian /Linux.md",
     "Obsidian /Глава 3. Перенаправление.md",
     "Obsidian /Глава 2. Операции с файлами и каталогами.md",
     "Obsidian /Глава 1. Навигация.md",
-    "Obsidian /Linux.md",
-    "Obsidian /Глава 4.Поиск и фильрация.md",
     "Obsidian /Глава 6.Управление пользователями и группами.md",
     "Obsidian /Глава 5. Работа с командами.md",
     "Obsidian /Глава 4. Операции с файлами и каталогами.md",
