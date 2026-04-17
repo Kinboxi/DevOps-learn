@@ -1,0 +1,9 @@
+{
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-wikilink",
+    "editor:set-heading",
+    "editor:configure-toolbar"
+  ]
+}
