@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Git/6. Относительные ссылки 2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -170,10 +170,11 @@
   },
   "active": "3aafcf56940cae7d",
   "lastOpenFiles": [
-    "Git/4. HEAD.md",
-    "Git/6. Относительные ссылки 2.md",
-    "Git/5. Относительные ссылки в Git.md",
+    "Git/7. Reset.md",
     "Git/Темы.md",
+    "Git/6. Относительные ссылки 2.md",
+    "Git/4. HEAD.md",
+    "Git/5. Относительные ссылки в Git.md",
     "Git/3. Слияние веток.md",
     "Без назви.md",
     "Git/2. Ветки.md",
@@ -201,7 +202,6 @@
     "/Obsidian /Глава 4.Поиск и фильрация.md",
     "/Obsidian /Глава 3. Перенаправление.md",
     "/Obsidian /Глава 2. Операции с файлами и каталогами.md",
-    "/Obsidian /Глава 1. Навигация.md",
     "/linux.base",
     "/Без названия.canvas",
     "Без назви 2",
