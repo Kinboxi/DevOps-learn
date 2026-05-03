@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian /Глава 7. Процессы.md",
+                "file": "Docker/Глава 4. Жизненный цикл контейнера.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Глава 7. Процессы"
+              "title": "Глава 4. Жизненный цикл контейнера"
             }
           }
         ]
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Git/3. Слияние веток.md",
+            "file": "Docker/Глава 4. Жизненный цикл контейнера.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -170,6 +170,25 @@
   },
   "active": "3aafcf56940cae7d",
   "lastOpenFiles": [
+    "Docker/Глава 3. Контейнеры.md",
+    "Docker/Глава 2. Docker Registry.md",
+    "Docker/Темы.md",
+    "Docker/Глава 1. Образы.md",
+    "Docker/Глава 4. Жизненный цикл контейнера.md",
+    "Docker",
+    "Obsidian /Глава 8.2. Сети - Инструменты.md",
+    "Obsidian /Глава 8.1 Сети - Протоколы.md",
+    "Obsidian /Глава 8. Сети - Основы.md",
+    "Obsidian /Linux.md",
+    "Obsidian /Глава 8. Сети.md",
+    "Obsidian /Глава 7. Процессы.md",
+    "Obsidian /Глава 6. Пользователи и группы.md",
+    "Obsidian /Глава 5. Права и доступ.md",
+    "Obsidian /Глава 4.Поиск и фильрация.md",
+    "Obsidian /Глава 3. Перенаправление.md",
+    "Obsidian /Глава 2. Операции с файлами и каталогами.md",
+    "Obsidian /Глава 1. Навигация.md",
+    "Git/1. Что такое Git.md",
     "Git/6. Относительные ссылки 2.md",
     "Git/7. Reset.md",
     "Git/Темы.md",
@@ -178,30 +197,11 @@
     "Git/3. Слияние веток.md",
     "Без назви.md",
     "Git/2. Ветки.md",
-    "Obsidian /Глава 7. Процессы.md",
-    "Obsidian /Глава 6. Пользователи и группы.md",
-    "Obsidian /Глава 1. Навигация.md",
-    "Git/Слияние веток.md",
-    "Git/1. Что такое Git.md",
-    "Без назви",
-    "Obsidian /Linux.md",
     "linux.base",
     "Без названия.canvas",
     "Git/dkdjd",
     "Git",
-    "Obsidian /Глава 5. Права и доступ.md",
-    "Obsidian /Глава..md",
-    "Obsidian /Глава 4.Поиск и фильрация.md",
-    "/Obsidian /Глава 6. Пользователи и группы.md",
-    "/Obsidian /Глава 5. Права и доступ.md",
-    "/Obsidian /Linux.md",
     "/Obsidian ",
-    "Obsidian /Глава 5. Работа с командами.md",
-    "Obsidian /Глава 3. Перенаправление.md",
-    "Obsidian /Глава 2. Операции с файлами и каталогами.md",
-    "/Obsidian /Глава 4.Поиск и фильрация.md",
-    "/Obsidian /Глава 3. Перенаправление.md",
-    "/Obsidian /Глава 2. Операции с файлами и каталогами.md",
     "/linux.base",
     "/Без названия.canvas",
     "Без назви 2",
